@@ -19,3 +19,6 @@ swapTime: ONPING
 #false 이여도 여전히 에러는 콘솔에 계속 표시되요.
 consoleOutput: false
 ```
+
+# Version
+1.18
