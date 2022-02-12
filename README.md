@@ -3,7 +3,7 @@
 
 ![test](https://user-images.githubusercontent.com/99476164/153716713-500dacad-bef5-4d42-b0ab-a91c2846a7a9.gif)
 
-# config
+# onfig
 ```yaml
 #이미지를 어떻게 바꿀지 정하는 곳이에요.
 #INORDER_MODE: 파일이름 순서대로 서버 아이콘을 바꿔요.
